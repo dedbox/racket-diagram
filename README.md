@@ -1,2 +1,2 @@
 # racket-diagram
-Draw technical diagrams.
+Draw technical diagrams
