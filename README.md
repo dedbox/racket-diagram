@@ -1,2 +1,2 @@
-# racket-drawings
+# racket-diagram
 Draw technical diagrams.
